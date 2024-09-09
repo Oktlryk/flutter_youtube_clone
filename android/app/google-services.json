@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307369417969",
+    "project_id": "youtube-clone-freecodecamp",
+    "storage_bucket": "youtube-clone-freecodecamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307369417969:android:8a5896c35853f3180a9d50",
+        "android_client_info": {
+          "package_name": "com.example.youtube_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0ZAfnINQqQzX5bNyAXjL7LDZUktGD74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
